@@ -4,7 +4,7 @@ import { Users, Heart, Leaf, Trophy } from "lucide-react";
 const About = () => {
   const stats = [
     { number: "2,500+", label: "Happy Customers" },
-    { number: "15+", label: "Years of Experience" },
+    { number: "1+", label: "Years of Experience" },
     { number: "99.8%", label: "Customer Satisfaction" },
     { number: "24/7", label: "Customer Support" }
   ];
@@ -42,7 +42,7 @@ const About = () => {
             <span className="bg-aqua-gradient bg-clip-text text-transparent">Kintosh Laundry</span>
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            With over 15 years of experience, we've built our reputation on trust, quality, 
+            With over a year of experience, we've built our reputation on trust, quality, 
             and exceptional customer service. Here's what makes us different.
           </p>
         </div>
@@ -91,13 +91,12 @@ const About = () => {
               Our Story
             </h3>
             <p className="text-lg text-muted-foreground leading-relaxed mb-6">
-              Founded in 2009, Kintosh Laundry began as a small family business with a simple mission: 
+              Founded in 2024, Kintosh Laundry began as a small business with a simple mission: 
               to provide the highest quality laundry services while making life easier for our customers. 
-              Today, we're proud to serve thousands of families and businesses across the city.
+              Today, we're proud to serve thousands of comrades and businesses across the city.
             </p>
             <p className="text-lg text-muted-foreground leading-relaxed">
-              What started with just two washing machines has grown into a state-of-the-art facility 
-              with the latest cleaning technology, but our commitment to personal service and 
+              Our commitment to personal service and 
               attention to detail remains unchanged.
             </p>
           </div>
