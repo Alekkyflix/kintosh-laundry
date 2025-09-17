@@ -10,7 +10,7 @@ const Footer = () => {
             <h3 className="text-2xl font-bold mb-4 text-primary-light">Kintosh Laundry</h3>
             <p className="text-background/80 mb-4 leading-relaxed">
               Your trusted partner for premium laundry services. We've been serving 
-              the community with professional care and exceptional quality since 2009.
+              the community with professional care and exceptional quality since 2024.
             </p>
             <div className="flex space-x-4">
               <Facebook className="h-5 w-5 text-background/60 hover:text-primary-light cursor-pointer transition-colors" />
@@ -71,7 +71,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-background/20 mt-8 pt-8 text-center">
           <p className="text-background/60 text-sm">
-            © 2024 Kintosh Laundry. All rights reserved. | Privacy Policy | Terms of Service
+            © 2025 Kintosh Laundry. All rights reserved. | Privacy Policy | Terms of Service
           </p>
         </div>
       </div>
