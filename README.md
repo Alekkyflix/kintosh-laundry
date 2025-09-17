@@ -2,10 +2,10 @@
 
 Follow these steps:
 
-git clone <YOUR_GIT_URL>
+Step 1: git clone <YOUR_GIT_URL>
 
 
-cd <YOUR_PROJECT_NAME>
+Step 2: cd <YOUR_PROJECT_NAME>
 
  Step 3: Install the necessary dependencies.
 npm i
